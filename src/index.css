@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: 'Stratos'; 
+    src: url("../src/fonts/Stratos-Regular.ttf") format('truetype');
+    
+  }
+
+  @font-face {
+    font-family: 'plex-sans-bold'; 
+    src: url("../src/fonts/IBMPlexSans-Bold.ttf") format('truetype');
+    
+  }
+
+  @font-face {
+    font-family: 'plex-sans'; 
+    src: url("../src/fonts/IBMPlexSans-Regular.ttf") format('truetype');
+    
+  }
+
+  .participant-name-column {
+    display: flex;
+  background-color: #b7eb8f;
+    @media (max-width: 600px) {
+      /* width: 120px; */
+      background-color: #c41dae;
+      width: 100%;
+      display: flex;
+      div {
+        background-color: #1d39c4;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        word-wrap: break-word;
+        word-break: break-word;
+      }
+    }
+  }

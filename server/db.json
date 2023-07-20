@@ -1,0 +1,330 @@
+{
+    "foods": [
+        {
+            "id": 0,
+            "title": "Bundles",
+            "items": [
+                {
+                    "name": "Salad Bundle",
+                    "description": "A perfect healthy & delicious meal.Choose from one of our favourite salads, add a drink and snack for just",
+                    "cal": "450 kcal",
+                    "price": "£14.99",
+                    "popular": true,
+                    "imageUrl": "https://thumbs.dreamstime.com/z/square-plate-greek-salad-white-fresh-vegetable-salad-top-view-square-plate-greek-salad-white-fresh-vegetable-salad-top-107529830.jpg?w=768"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "title": "Salads",
+            "items": [
+                {
+                    "name": "Create Your Own Salad",
+                    "description": "Create your own masterpiece! choose from over 70 fresh and healthy ingredients",
+                    "cal": "550 kcal",
+                    "price": "£7.99",
+                    "popular": true,
+                    "imageUrl": "https://www.kitchensanctuary.com/wp-content/uploads/2021/06/Simple-Green-Salad-with-Vinaigrette-Square-FS-3241.webp"
+                },
+                {
+                    "name": "Chipotle salad",
+                    "description": "Create your own masterpiece! choose from over 70 fresh and healthy ingredients",
+                    "cal": "750 kcal",
+                    "price": "£11.99",
+                    "popular": true,
+                    "imageUrl": "https://www.kitchensanctuary.com/wp-content/uploads/2021/06/Simple-Green-Salad-with-Vinaigrette-Square-FS-3241.webp"
+                },
+                {
+                    "name": "Buffalo chicken",
+                    "description": "Create your own masterpiece! choose from over 70 fresh and healthy ingredients",
+                    "cal": "1050 kcal",
+                    "price": "£11.99",
+                    "popular": false,
+                    "imageUrl": "https://www.certifiedwahm.com/wp-content/uploads/2021/09/Vegetable-Salad-Bundle.jpg"
+                },
+                {
+                    "name": "Middle eastern salad",
+                    "description": "Create your own masterpiece! choose from over 70 fresh and healthy ingredients",
+                    "cal": "480 kcal",
+                    "price": "£11.49",
+                    "popular": false,
+                    "imageUrl": "https://www.kitchensanctuary.com/wp-content/uploads/2021/06/Simple-Green-Salad-with-Vinaigrette-Square-FS-3241.webp"
+                },
+                {
+                    "name": "Tuna Niçoise",
+                    "description": "Create your own masterpiece! choose from over 70 fresh and healthy ingredients",
+                    "cal": "450 kcal",
+                    "price": "£10.99",
+                    "popular": false,
+                    "imageUrl": "https://www.kitchensanctuary.com/wp-content/uploads/2021/06/Simple-Green-Salad-with-Vinaigrette-Square-FS-3241.webp"
+                },
+                {
+                    "name": "Halloumi and Roasted Veg",
+                    "description": "Create your own masterpiece! choose from over 70 fresh and healthy ingredients",
+                    "cal": "450 kcal",
+                    "price": "£11.49",
+                    "popular": true,
+                    "imageUrl": "https://www.kitchensanctuary.com/wp-content/uploads/2021/06/Simple-Green-Salad-with-Vinaigrette-Square-FS-3241.webp"
+                },
+                {
+                    "name": "Avacado Caesar Salad",
+                    "description": "Create your own masterpiece! choose from over 70 fresh and healthy ingredients",
+                    "cal": "450 kcal",
+                    "price": "£12.49",
+                    "popular": true,
+                    "imageUrl": "https://www.kitchensanctuary.com/wp-content/uploads/2021/06/Simple-Green-Salad-with-Vinaigrette-Square-FS-3241.webp"
+                },
+                {
+                    "name": "The Italian",
+                    "description": "Create your own masterpiece! choose from over 70 fresh and healthy ingredients",
+                    "cal": "450 kcal",
+                    "price": "£12.49",
+                    "popular": false,
+                    "imageUrl": "https://www.kitchensanctuary.com/wp-content/uploads/2021/06/Simple-Green-Salad-with-Vinaigrette-Square-FS-3241.webp"
+                },
+                {
+                    "name": "Superfood salad",
+                    "description": "Create your own masterpiece! choose from over 70 fresh and healthy ingredients",
+                    "cal": "450 kcal",
+                    "price": "£11.49",
+                    "popular": false,
+                    "imageUrl": "https://www.kitchensanctuary.com/wp-content/uploads/2021/06/Simple-Green-Salad-with-Vinaigrette-Square-FS-3241.webp"
+                },
+                {
+                    "name": "Salman Greens and Grains",
+                    "description": "Create your own masterpiece! choose from over 70 fresh and healthy ingredients",
+                    "cal": "450 kcal",
+                    "price": "£12.49",
+                    "popular": false,
+                    "imageUrl": "https://www.kitchensanctuary.com/wp-content/uploads/2021/06/Simple-Green-Salad-with-Vinaigrette-Square-FS-3241.webp"
+                },
+                {
+                    "name": "Parmesan Chicken Salad",
+                    "description": "Create your own masterpiece! choose from over 70 fresh and healthy ingredients",
+                    "cal": "450 kcal",
+                    "price": "£11.49",
+                    "popular": true,
+                    "imageUrl": "https://www.kitchensanctuary.com/wp-content/uploads/2021/06/Simple-Green-Salad-with-Vinaigrette-Square-FS-3241.webp"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Hot Power Bowls",
+            "items": [
+                {
+                    "name": "Create Your Own Powerbowl",
+                    "description": "A perfect healthy & delicious meal.Choose from one of our favourite salads, add a drink and snack for just",
+                    "cal": "450 kcal",
+                    "price": "£14.99",
+                    "popular": true,
+                    "imageUrl": "https://www.certifiedwahm.com/wp-content/uploads/2021/09/Vegetable-Salad-Bundle.jpg"
+                },
+                {
+                    "name": "Brazilian Black Bean Powerbowl",
+                    "description": "A perfect healthy & delicious meal.Choose from one of our favourite salads, add a drink and snack for just",
+                    "cal": "450 kcal",
+                    "price": "£11.99",
+                    "popular": false,
+                    "imageUrl": "https://www.certifiedwahm.com/wp-content/uploads/2021/09/Vegetable-Salad-Bundle.jpg"
+                },
+                {
+                    "name": "Shawarma Powerbowl",
+                    "description": "A perfect healthy & delicious meal.Choose from one of our favourite salads, add a drink and snack for just",
+                    "cal": "450 kcal",
+                    "price": "£11.99",
+                    "popular": false,
+                    "imageUrl": "https://www.certifiedwahm.com/wp-content/uploads/2021/09/Vegetable-Salad-Bundle.jpg"
+                },
+                {
+                    "name": "Might Mexican",
+                    "description": "A perfect healthy & delicious meal.Choose from one of our favourite salads, add a drink and snack for just",
+                    "cal": "450 kcal",
+                    "price": "£11.99",
+                    "popular": false,
+                    "imageUrl": "https://www.certifiedwahm.com/wp-content/uploads/2021/09/Vegetable-Salad-Bundle.jpg"
+                },
+                {
+                    "name": "Katsu Curry",
+                    "description": "A perfect healthy & delicious meal.Choose from one of our favourite salads, add a drink and snack for just",
+                    "cal": "450 kcal",
+                    "price": "£11.49",
+                    "popular": false,
+                    "imageUrl": "https://www.certifiedwahm.com/wp-content/uploads/2021/09/Vegetable-Salad-Bundle.jpg"
+                },
+                {
+                    "name": "Malaysian Yellow Curry",
+                    "description": "A perfect healthy & delicious meal.Choose from one of our favourite salads, add a drink and snack for just",
+                    "cal": "450 kcal",
+                    "price": "£11.49",
+                    "popular": false,
+                    "imageUrl": "https://www.certifiedwahm.com/wp-content/uploads/2021/09/Vegetable-Salad-Bundle.jpg"
+                },
+                {
+                    "name": "Red Thai Curry",
+                    "description": "A perfect healthy & delicious meal.Choose from one of our favourite salads, add a drink and snack for just",
+                    "cal": "450 kcal",
+                    "price": "£11.49",
+                    "popular": false,
+                    "imageUrl": "https://www.certifiedwahm.com/wp-content/uploads/2021/09/Vegetable-Salad-Bundle.jpg"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Vegan Menu",
+            "items": [
+                {
+                    "name": "Vegan Create your Own salad",
+                    "description": "A perfect healthy & delicious meal.Choose from one of our favourite salads, add a drink and snack for just",
+                    "cal": "450 kcal",
+                    "price": "£7.99",
+                    "popular": false,
+                    "imageUrl": "https://www.certifiedwahm.com/wp-content/uploads/2021/09/Vegetable-Salad-Bundle.jpg"
+                },
+                {
+                    "name": "Vegan Create your Own Wrap",
+                    "description": "A perfect healthy & delicious meal.Choose from one of our favourite salads, add a drink and snack for just",
+                    "cal": "450 kcal",
+                    "price": "£7.99",
+                    "popular": true,
+                    "imageUrl": "https://www.certifiedwahm.com/wp-content/uploads/2021/09/Vegetable-Salad-Bundle.jpg"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Rainbow Wraps",
+            "items": [
+                {
+                    "name": "Create Your Own Wrap",
+                    "description": "A perfect healthy & delicious meal.Choose from one of our favourite salads, add a drink and snack for just",
+                    "cal": "450 kcal",
+                    "price": "£7.99",
+                    "popular": false,
+                    "imageUrl": "https://www.certifiedwahm.com/wp-content/uploads/2021/09/Vegetable-Salad-Bundle.jpg"
+                },
+                {
+                    "name": "Soy and Sesame",
+                    "description": "A perfect healthy & delicious meal.Choose from one of our favourite salads, add a drink and snack for just",
+                    "cal": "450 kcal",
+                    "price": "£10.49",
+                    "popular": false,
+                    "imageUrl": "https://www.certifiedwahm.com/wp-content/uploads/2021/09/Vegetable-Salad-Bundle.jpg"
+                },
+                {
+                    "name": "Shawarma Rainbow wrap",
+                    "description": "A perfect healthy & delicious meal.Choose from one of our favourite salads, add a drink and snack for just",
+                    "cal": "450 kcal",
+                    "price": "£10.49",
+                    "popular": false,
+                    "imageUrl": "https://www.certifiedwahm.com/wp-content/uploads/2021/09/Vegetable-Salad-Bundle.jpg"
+                },
+                {
+                    "name": "Super Avocado Caesar",
+                    "description": "A perfect healthy & delicious meal.Choose from one of our favourite salads, add a drink and snack for just",
+                    "cal": "450 kcal",
+                    "price": "£10.49",
+                    "popular": false,
+                    "imageUrl": "https://www.certifiedwahm.com/wp-content/uploads/2021/09/Vegetable-Salad-Bundle.jpg"
+                },
+                {
+                    "name": "Piri Protein",
+                    "description": "A perfect healthy & delicious meal.Choose from one of our favourite salads, add a drink and snack for just",
+                    "cal": "450 kcal",
+                    "price": "£10.49",
+                    "popular": false,
+                    "imageUrl": "https://www.certifiedwahm.com/wp-content/uploads/2021/09/Vegetable-Salad-Bundle.jpg"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Snack & Slides",
+            "items": [
+                {
+                    "name": "Salad Bundle",
+                    "description": "A perfect healthy & delicious meal.Choose from one of our favourite salads, add a drink and snack for just",
+                    "cal": "450 kcal",
+                    "price": "£14.99",
+                    "popular": true,
+                    "imageUrl": "https://docs.omnipos.be/ckfinder/userfiles/004/images/producten/herrs-jalapeno.jpg"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Smoothies, Shake & Juice",
+            "items": [
+                {
+                    "name": "Smoothies",
+                    "description": "A perfect healthy & delicious meal.Choose from one of our favourite salads, add a drink and snack for just",
+                    "cal": "450 kcal",
+                    "price": "£14.99",
+                    "popular": true,
+                    "imageUrl": "https://cookingformysoul.com/wp-content/uploads/2022/05/mixed-berry-smoothie-2-min.jpg"
+                },
+                {
+                    "name": "Smoothies",
+                    "description": "A perfect healthy & delicious meal.Choose from one of our favourite salads, add a drink and snack for just",
+                    "cal": "450 kcal",
+                    "price": "£14.99",
+                    "popular": true,
+                    "imageUrl": "https://cookingformysoul.com/wp-content/uploads/2022/05/mixed-berry-smoothie-2-min.jpg"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Cold Drinks",
+            "items": [
+                {
+                    "name": "Coke",
+                    "description": "",
+                    "cal": "450 kcal",
+                    "price": "£14.99",
+                    "popular": true,
+                    "imageUrl": "https://www.coca-cola.com/content/dam/onexp/gb/en/brands/coca-cola-zero-sugar/Product-Information-Section-coca-cola-zero-sugar.jpg/width1960.jpg"
+                },
+                {
+                    "name": "Coke zero",
+                    "description": "",
+                    "cal": "450 kcal",
+                    "price": "£14.99",
+                    "popular": false,
+                    "imageUrl": "https://www.coca-cola.com/content/dam/onexp/gb/en/brands/coca-cola-zero-sugar/Product-Information-Section-coca-cola-zero-sugar.jpg/width1960.jpg"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Yoghurt & Fruit",
+            "items": [
+                {
+                    "name": "Yoghurt & Fruit",
+                    "description": "A perfect healthy & delicious meal.Choose from one of our favourite salads, add a drink and snack for just",
+                    "cal": "450 kcal",
+                    "price": "£14.99",
+                    "popular": true,
+                    "imageUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2023/02/Bowl-of-fruit-5155e6f.jpg?quality=90&webp=true&resize=300,272"
+                },
+                {
+                    "name": "Salad Bundle",
+                    "description": "A perfect healthy & delicious meal.Choose from one of our favourite salads, add a drink and snack for just",
+                    "cal": "450 kcal",
+                    "price": "£14.99",
+                    "popular": true,
+                    "imageUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2023/02/Bowl-of-fruit-5155e6f.jpg?quality=90&webp=true&resize=300,272"
+                },
+                {
+                    "name": "Yoghurt & Fruit",
+                    "description": "A perfect healthy & delicious meal.Choose from one of our favourite salads, add a drink and snack for just",
+                    "cal": "450 kcal",
+                    "price": "£14.99",
+                    "popular": true,
+                    "imageUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2023/02/Bowl-of-fruit-5155e6f.jpg?quality=90&webp=true&resize=300,272"
+                }
+            ]
+        }
+    ]
+}

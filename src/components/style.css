@@ -1,0 +1,59 @@
+.custom-button {
+    transition-property: box-shadow;
+    transition-duration: .15s;
+    transition-timing-function: ease-out;
+    border-radius: 4px;
+    height: 48px;
+    width: 100%;
+    font-size: 16px;
+    font-weight: 700;
+    background-color: #4c69ba;
+    border: none;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    outline: none;
+    cursor: pointer;
+  }
+
+  .menu-screen-login-button {
+    margin-right: 8px;
+        @media (max-width: 670px) {
+          display: none
+        }
+  }
+
+  .login-screen-login-button {
+    margin-right: 8px;
+        @media (max-width: 670px) {
+          display: none
+        }
+  }
+
+  .facebook-button {
+    margin-top: 24px;
+  transition-property: box-shadow;
+  transition-duration: 0.15s;
+  transition-timing-function: ease-out;
+  border-radius: 4px;
+  height: 48px;
+  width: 400px;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: none;
+  font-family: "plex-sans", sans-serif;
+  background-color: #4c69ba;
+  border: none;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  outline: none;
+  cursor: pointer;
+  }
+
+  
+  

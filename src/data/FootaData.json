@@ -1,0 +1,42 @@
+{
+    "footerData": [
+        {
+            "title": "Discover Deliveroo",
+            "items": [
+                "Investors",
+                "About us",
+                "Takeaway",
+                "More",
+                "Newsroom",
+                "Engineering blog",
+                "Design blog",
+                "Careers",
+                "Restaurant signup",
+                "Become a rider",
+                "Deliveroo Talent Directory"
+            ]
+        },
+        {
+            "title": "Legal",
+            "items": [
+                "Terms and conditions",
+                "Privacy",
+                "Cookies",
+                "Speak Up",
+                "Partner ranking"
+            ]
+        },
+        {
+            "title": "Help",
+            "items": [
+                "Contact",
+                "FAQs",
+                "Cuisines"
+            ]
+        },
+        {
+            "title": "Take Deliveroo with you",
+            "items": []
+        }
+    ]
+}
